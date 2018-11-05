@@ -13,3 +13,6 @@ driver.find_element(By.XPATH, "//input[@name='walletName']").send_keys("Test wal
 
 #detach from deadelus
 driver.quit()
+
+# This is just a simple demo
+# actual tests using Page Object Model are in ../testcases
